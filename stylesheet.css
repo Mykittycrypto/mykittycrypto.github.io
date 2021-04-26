@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'Colendra';
+    src: url('ColendraBold.eot');
+    src: url('ColendraBold.eot?#iefix') format('embedded-opentype'),
+        url('ColendraBold.woff2') format('woff2'),
+        url('ColendraBold.woff') format('woff'),
+        url('ColendraBold.ttf') format('truetype'),
+        url('ColendraBold.svg#ColendraBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Colendra';
+    src: url('ColendraRegular.eot');
+    src: url('ColendraRegular.eot?#iefix') format('embedded-opentype'),
+        url('ColendraRegular.woff2') format('woff2'),
+        url('ColendraRegular.woff') format('woff'),
+        url('ColendraRegular.ttf') format('truetype'),
+        url('ColendraRegular.svg#ColendraRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
